@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">3Deffect</string>
+
+
+    <string name="accept">Accept</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="base64_encoded">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzZBADGohspEc1J1IlpjDjX4ov/UFaePmZg+X0ZEV8ARP9e/+HQjWdX+INmdZLKC2BA93TGHDvnZBGXx0Oidwfdmyegp650J4dOdCstVzHK0NjiuioPZb7Nbvb2qHW4J1BoKZWJsM8HSJyjCNVbK2fvGU+HSPF/ua31BRESjbqCmPeLAWs0lUYo6Dz3x5MDSveEclHTpjyLKkP5TyJLqaTIB1iNNbSFwG7qZ+tIDO9DmwIz/WJHvu0qgo0c8P0DMO81bxezaLs6jjscti+J8qDkopkgpO6aaRjJvwNQS2robfj8uiEppDMEA9hDxxIjfzy9/LwWFL0SpUOxaQ5QLuwIDAQAB</string>
+    <string name="com.crashlytics.android.build_id">6c9a267d-6e28-4043-8b59-d05e415a3e53</string>
+    <string name="decline">Decline</string>
+
+
+    <string name="project_id">d-effect-eaa21</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+</resources>
